@@ -1,19 +1,65 @@
-## Woonstad Rotterdam REPO
+# 🏠 Woonstad Rotterdam Repository
 
-This is the Woonstad Rotterdam REPO, where we will share source for other social housing organizations
+Welcome to the official Woonstad Rotterdam GitHub repository.  
 
+This organization hosts open-source projects developed by Woonstad Rotterdam and intended for collaboration with other social housing organizations across the Netherlands.
 
+Also make sure to check out our 🤗 [Hugging Face page](https://huggingface.co/woonstadrotterdam).
 
+---
 
-## Badges
+## 📦 Repositories
 
-woningwaardering repo: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/woonstadrotterdam/woningwaardering)
+### 🧮 [woningwaardering](https://github.com/woonstadrotterdam/woningwaardering)
 
-Pyspark testframework repo: ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/woonstadrotterdam/pyspark-testframework)
+Calculate the amount of _woningwaardering_ points of a dwelling.
 
+![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/woningwaardering)
+![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/woningwaardering)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/woningwaardering)
+![PyPI - Version](https://img.shields.io/pypi/v/woningwaardering)
+![License](https://img.shields.io/github/license/woonstadrotterdam/woningwaardering)
 
-![GitHub Org's stars](https://img.shields.io/github/stars/woonstadrotterdam)
+---
 
+### ⚙️ [pyspark-testframework](https://github.com/woonstadrotterdam/pyspark-testframework)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+Easily build data quality tests for PySpark dataframes.
 
+![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/pyspark-testframework)
+![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/pyspark-testframework)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/pyspark-testframework)
+![PyPI - Version](https://img.shields.io/pypi/v/pyspark-testframework)
+![License](https://img.shields.io/github/license/woonstadrotterdam/pyspark-testframework)
+
+---
+
+### 🏛️ [monumenten](https://github.com/woonstadrotterdam/monumenten)
+
+Retrieve monumental statuses. 
+
+![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/monumenten)
+![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/monumenten)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/monumenten)
+![PyPI - Version](https://img.shields.io/pypi/v/monumenten)
+![License](https://img.shields.io/github/license/woonstadrotterdam/monumenten)
+
+---
+
+## 📊 Organization Stats
+
+![GitHub Org's stars](https://img.shields.io/github/stars/woonstadrotterdam?style=social)
+![GitHub followers](https://img.shields.io/github/followers/woonstadrotterdam?style=social)
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from other woningcorporaties and open-source developers!  
+Please open issues or pull requests to collaborate.
+
+---
+
+## 📃 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
