@@ -44,9 +44,21 @@ Retrieve monumental statuses.
 ![PyPI - Version](https://img.shields.io/pypi/v/monumenten)
 ![License](https://img.shields.io/github/license/woonstadrotterdam/monumenten)
 
-### 💬 [mcp-sqlalchemy](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
+---
+
+### 💬📊 [mcp-sqlalchemy](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
 
 MCP-server to provide SQL-database tools to your A.I.
+
+![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/mcp-sqlalchemy)
+![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/mcp-sqlalchemy)
+![License](https://img.shields.io/github/license/woonstadrotterdam/mcp-sqlalchemy)
+
+---
+
+### 💬🏛️ [mcp-monumenten](https://github.com/woonstadrotterdam/mcp-sqlalchemy)
+
+MCP-server that allows A.I. to retrieve monumental statusses using our [monumenten](https://github.com/woonstadrotterdam/monumenten) package.
 
 ![Last commit](https://img.shields.io/github/last-commit/woonstadrotterdam/mcp-sqlalchemy)
 ![GitHub stars](https://img.shields.io/github/stars/woonstadrotterdam/mcp-sqlalchemy)
